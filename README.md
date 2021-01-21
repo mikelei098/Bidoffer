@@ -2,8 +2,6 @@
 
 Hanchao Lei
 
-hl2714
-
 Date: 11/05/2020
 
 All the .java files are contained in Bidoffer package.
